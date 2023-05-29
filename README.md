@@ -6,9 +6,9 @@ If you have any problems, please contact us: wangqipeng@nudt.edu.cn
 ***Note:***
 *Before you start the simulation, you need to add a toolbox (FOMCOM Toolbox).
 Please refer to the website： https://blog.csdn.net/m0_57154368/article/details/124181502
-for adding steps.
+for adding steps.*
 
-If you can find ``FOMCOM Toolbox'' in the list of Simulink Library Browser, you complete the adding.*
+If you can find ***FOMCOM Toolbox*** in the list of Simulink Library Browser, you complete the adding.
 
 
 Next, let us start the numerical simulation. 
